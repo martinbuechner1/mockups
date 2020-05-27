@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T13:51:59.204Z" agent="5.0 (Windows)" etag="F0rEy3Q5uq3bQxA5AADd" version="13.1.4" type="github"><diagram id="1DsP2LDfPncGxFGizAz-" name="Page-1">7Zhdb5swFIZ/DZetwA5OejlYtk5bpGzZ1GsPHPBm7MhxFuiv32E4EOJUWqSmRE2vsF9/wHneg7HxcFyUHzVd5TOVMuEhPy09/N5DCPkEwaVWqkYJAkIaJdM8tVonLPgjs6Jv1Q1P2brX0SglDF/1xURJyRLT06jWatvvtlSif9cVzZgjLBIqXPWBpyZv1Akad/o941lu2vjumpaC7jrbSNY5TdV2T8JTD8daKdOUijJmoqa349KM+/BEa/tgmknzPwPmsa7mN/TX/c/1bFp+RZX48enGzvKHio0N2D6sqXYEtNrIlNWT+B6Otjk3bLGiSd26BdNBy00hoBZA0U7HtGHlk88ZtNFD3jBVMKMr6LLt+AbEQsv32N6NrUitp1k7tgsbCjbyEyigUygE56XQvjrNCPvehLa6zwgdYUTOhQhfPCI0GprR6OIZBYMzCh1GX2AJ1Q4oCNn0aayNVr9ZrITSoEgloWe05EIcSFTwTEI1AUQwMY5qgBxW9He2oeBpWt/mKP7+avcMDozCngMkdAwYH+GPz8WfvPEflP/Y4f+5DlhejQEoHNiBieNAxNYGBm5kdjUuBEO7sNvfX/DHEg/+sQzc7flcK0i2q8lTPHiennQ2OPMJaTeAuIlJXvbEFLjnge91Cr7evCQHi4NrweiIA+hsBriHjRlMLQ2FrYSfMS/GXkSWS8lqesj/xnhTeLyNbuHSffOO7D1efuE9OKa4cMPJ8yy8UO1+ufxr2/tzhad/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-27T13:58:14.118Z" agent="5.0 (Windows)" etag="rehG1zqGTQfJxe5K6Mvy" version="13.1.4" type="github">
+  <diagram id="1DsP2LDfPncGxFGizAz-" name="Page-1">
+    <mxGraphModel dx="2062" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-1" value="Sidepanel Navbar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="160" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-5" value="Lager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="65" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-6" value="Lager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="65" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-7" value="Kunden" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="255" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-8" value="Bestellung" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="155" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-11" value="Profil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="355" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" width="660" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PCryP-ajHbsMExQ2ylUI-14" value="Name des Momentan geöffneten Reiter z.B. Bestellungen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="10" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVT1JNlg_2tDrcwLEI-0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="460" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="HVT1JNlg_2tDrcwLEI-0-2" value="Inhalt aus DB zum geöffneten Reiter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HVT1JNlg_2tDrcwLEI-0-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="105" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
